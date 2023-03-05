@@ -1,0 +1,92 @@
+@charset "ISO-8859-1";
+
+		/* Estilos Jefersom */		
+		body{
+		background-color: #87cefa;
+		}	
+		h3{
+		background-color: #5f9ea0;
+		color: white;
+		font-size: 60pt;
+		}
+		table{
+		background-color: white;
+		border-collapse: collapse;
+		}
+		th, td{
+		padding: 20px;
+		}
+		thead{
+		background-color: #246355;
+		border-bottom: solid 5px #0F362D;
+		color: white;	
+		}
+	
+		/* Verificar colores*/
+		tr:nth-child(even){
+		background-color: #ddd;	
+		}
+		tr:hover td{
+		background-color: #369681; 
+		color: white;
+		}
+		
+		/* ---------------------------------------------------------------- */
+		.modal-content{
+		background-color: white;
+		}
+		.boton1{
+		background-color: #008080;
+		}
+		.boton2{
+		background-color: #808080;
+		}
+		.boton3{
+		background-color: #b22222;
+		}
+		.boton4{
+		background-color: #808080;
+		}
+		.modal-footer i{
+		  font-size: 25px;
+		  color: white;
+		}
+		label{
+		text-align: center;
+		font-family: Arial;
+		font-size: 15pt;
+		}
+		
+		/* ---------------------------------------------------------------- */
+		.modal-header{
+		color: white;
+		background: #008080;
+		display: flex;
+  		justify-content: center;  		
+		}
+		.help-block {
+		  		color: red;
+		}
+		.form-group.has-error .form-control-label {
+		  color: red;
+		}
+		.form-group.has-error .form-control {
+		  border: 1px solid red;
+		  box-shadow: 0 0 0 0.2rem rgba(250, 16, 0, 0.18);		  
+		}
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
